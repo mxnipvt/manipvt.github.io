@@ -15,8 +15,8 @@ h1{
   .box::before {
     content: '';
     position: center;
-    top: 800;
-    bottom: 20;
+    top: 1000;
+    bottom: 500;
     left: 50%;
     transform: translateX(-50%);
     border-left: 2px solid black;
