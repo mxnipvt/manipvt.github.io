@@ -13,7 +13,7 @@
       <div class="center">
   <p>Billas Properties and Investments | Real Estate Agency |Open plots for sale in warangal </p>
 </div>
-        <p1>BILLA VINAY KUMAR</p1>
+        <p>BILLA VINAY KUMAR</p>
         <p1>Phone No: 9856712345</p1>
         <P2> Email: billa@gmail.com </P2>
        </div>
