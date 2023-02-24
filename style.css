@@ -23,10 +23,10 @@ h1{
   }
 
   .textbox {
-    width: 40%;
+    width: 60%;
     float: right;
-    padding: 20px;
-    border: 1px solid #ccc;
+    padding: 10px;
+    border: 2px solid #ccc;
   }
   
   .image-box {
