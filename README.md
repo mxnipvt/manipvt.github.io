@@ -2,7 +2,7 @@
   <head>
     <body>
     
-    <h1> </h1>
+    <h1>Billas Properties and Investments </h1>
     <a href="https:/wa.me/918309711495"  target="_blank" class="whatsapp_float"><i class="fa-brands fa-whatsapp whatsapp-icon"></i></a>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
 
@@ -10,7 +10,7 @@
     <div class="box"
      class="image-box">
       <div class="image-text">
-        <h2>Billas Properties and Investments</h2> <h3>| Real Estate Agency |</h3> <h4>Open plots for sale in Warangal</h4>
+        <h2>| Real Estate Agency |</h2> <h3>Open plots for sale in Warangal</h3>
         <p>BILLA VINAY KUMAR</p>
         <p1>Phone No: 9856712345</p1>
         <P2> | Email: billa@gmail.com </P2>
