@@ -15,7 +15,7 @@
 </div>
         <p1>BILLA VINAY KUMAR</p1>
         <p1>Phone No: 9856712345</p1>
-        <P2> | Email: billa@gmail.com </P2>
+        <P2> Email: billa@gmail.com </P2>
        </div>
       </style>
       <style>
