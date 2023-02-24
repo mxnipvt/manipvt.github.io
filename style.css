@@ -14,7 +14,7 @@ h1{
   
   .box::before {
     content: '';
-    position: buttom;
+    position: center;
     top: 415;
     bottom: 0;
     left: 50%;
