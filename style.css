@@ -36,6 +36,7 @@ h1{
   .image-box img {
     width: 100%;
     height: auto;
+    position: center;
   }
   
   .image-text {
