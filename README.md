@@ -10,8 +10,10 @@
     <div class="box"
      class="image-box">
       <div class="image-text">
-         <h2>Billas Properties and Investments </h2><h3>| Real Estate Agency |</h3> <h4>Open plots for sale in Warangal</h4>
-        <p>BILLA VINAY KUMAR</p>
+      <div class="center">
+  <p>Billas Properties and Investments | Real Estate Agency |Open plots for sale in warangal </p>
+</div>
+        <p1>BILLA VINAY KUMAR</p1>
         <p1>Phone No: 9856712345</p1>
         <P2> | Email: billa@gmail.com </P2>
        </div>
