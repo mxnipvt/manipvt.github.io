@@ -5,8 +5,8 @@ h1{
     color: black; 
 }
 .box {
-    width: 1500px; /* set the width of the box */
-    height: 300px; /* set the height of the box */
+    width: 800px; /* set the width of the box */
+    height: 500px; /* set the height of the box */
     border: 5px solid burlywood; /* add a border around the box */
     padding: 10px; /* add padding inside the box */
     background-color: #D0D3D4 ; /* set the background color of the box */
@@ -14,7 +14,7 @@ h1{
   
   .box::before {
     content: '';
-    position: absolute;
+    position: buttom;
     top: 415;
     bottom: 0;
     left: 50%;
