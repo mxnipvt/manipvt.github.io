@@ -20,8 +20,7 @@
       </style>
       <style>
         body {
-          background: rgb(101,180,58);
-background: linear-gradient(90deg, rgba(101,180,58,1) 0%, rgba(215,129,30,1) 51%, rgba(112,69,252,1) 100%);
+          background-image: linear-gradient(to right, #DECBA4, #3E5151);
           background-size: cover;
           background-position: center center;
           background-attachment: fixed;
