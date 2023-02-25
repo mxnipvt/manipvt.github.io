@@ -20,7 +20,8 @@
       </style>
       <style>
         body {
-          background: linear-gradient(to bottom, rgba(167, 208, 247, 0.7), rgba(255, 165, 129, 0.74)), url('your-image-url');
+          background: rgb(101,180,58);
+background: linear-gradient(90deg, rgba(101,180,58,1) 0%, rgba(215,129,30,1) 51%, rgba(112,69,252,1) 100%);
           background-size: cover;
           background-position: center center;
           background-attachment: fixed;
