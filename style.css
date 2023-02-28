@@ -10,7 +10,7 @@
   border-radius: 50;
   width: 150px;
   height: 150px;
-  position: absolute;
+  position: center;
   top: calc(50vh - 75px);
   left: calc(50vw - 75px);
 }
@@ -20,7 +20,7 @@
   border-radius: 50%;
   width: inherit;
   height: inherit;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
   animation: loader 2s linear infinite;
